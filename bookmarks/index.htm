@@ -4,21 +4,34 @@
 <title>Bookmarks</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
+.link-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.link-group div img {
+    width: 128px;
+    display: block;
+}
 </style>
 </head>
 <body>
 
 <h1>Bookmarks</h1>
-<ul>
-<li>Mail1</li>
-<li>Mail2</li>
-<li>Mail3</li>
-<li>Mail4</li>
-<li>Mail5</li>
-<li>Mail6</li>
-<li>Mail7</li>
-<li>Mail8</li>
-</ul>
+<div class="link-group">
+  <div>
+    <a href="https://newsham.dyndns.org/homepage/month.php"><img src="frame.png" />Month</a>
+  </div>
+  <div>
+    <a href="http://mail.yahoosmallbusiness.com/login"><img src="frame.png" />Newsham Mail</a>
+  </div>
+  <div>
+    <a href="http://mail.yahoo.com/"><img src="frame.png" />Yahoo Mail</a>
+  </div>
+  <div>
+    <a href="https://mail.google.com/"><img src="frame.png" />Gmail</a>
+  </div>
+</div>
 
 </body>
 </html>
