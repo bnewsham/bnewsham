@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I am currently working on migrating my projectes to git
+- I am currently learning python
+- Pronouns: he/him
+
 <!--
 **bnewsham/bnewsham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
